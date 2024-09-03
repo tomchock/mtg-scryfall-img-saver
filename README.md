@@ -10,7 +10,7 @@ The images are saved with a progressive numbering system.
 
 ## How to Use
 
-1. **Run the Script**: execute the Python script (`mtg-scryfall_img_saver.py`) directly. This will open a graphical interface.
+1. **Run the Script**: Open the .bat file or execute the Python script directly. This will open a graphical interface.
 
 2. **Enter URL**: When prompted, enter the URL of the page.
 
